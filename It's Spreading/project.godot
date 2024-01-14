@@ -10,10 +10,12 @@ config_version=5
 
 [application]
 
-config/name="It's Spreading (PirateSoftware Game Jam 2024)"
+config/name="It's Spreading"
+run/main_scene="res://Scenes/main_menu.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"
