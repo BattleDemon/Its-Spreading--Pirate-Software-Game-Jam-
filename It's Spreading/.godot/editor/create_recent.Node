@@ -1,6 +1,7 @@
+ColorRect
 Panel
-Label
 Node2D
 Camera2D
+Label
 CanvasLayer
 Node

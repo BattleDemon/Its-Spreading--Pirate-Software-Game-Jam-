@@ -1,1 +1,7 @@
 res://Scenes/main_menu.tscn
+res://Resourses/panel_purple_transparant.tres
+res://Camera2D.gd
+res://Scripts/Camera_controls.tscn
+res://Scenes/Main_game.tscn
+res://UI/ui.tscn
+res://Scripts/Camera2D.gd
